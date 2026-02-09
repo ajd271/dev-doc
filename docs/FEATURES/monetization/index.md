@@ -10,7 +10,7 @@ metadata:
 next:
   description: ''
 ---
-Whether it be through on-device subscriptions, in-app purchases, or video advertisements, there are many ways to monetize an app on the Roku platform. A primary goal for the Roku Publishing Platform is to share this revenue with our app partners.
+Whether it be through on-device subscriptions, in-app purchases, or video advertisements, there are many ways to monetize an app on the Roku platform. A primary goal for the Roku Publishing Platform is to share this revenue with our app partners. This is a suggested edit!!!
 
 ## Monetization terms and options
 
