@@ -44,4 +44,6 @@ In this section, you'll find:
 
 * [Legal](doc:legal) — A review of federal and international regulations to be aware of when developing a Roku streaming app, as well as the contractual terms you'll need to agree to before distributing content on the Roku platform.
 
-To learn more about how Roku apps work, [read on](doc:how-channels-work)!
+To learn more about how Roku apps work, [read on](doc:how-channels-work)! 
+
+this is a suggested edit
