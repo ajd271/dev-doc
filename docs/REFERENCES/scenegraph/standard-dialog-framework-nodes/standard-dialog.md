@@ -6,6 +6,8 @@ Extends [Group](doc:group)
 
 The **StandardDialog** node is the base for Roku's pre-built standard message, keyboard, pinpad, and progress dialogs. It can also be used directly with a custom dialog structure built with the **StdDialogItem** nodes.
 
+I am suggesting an edit to this document. 
+
 ## Fields
 
 <Table align={["left","left","left","left","left"]}>
